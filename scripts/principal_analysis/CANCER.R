@@ -157,6 +157,6 @@ if (length(y_genes_detected) > 0) {
   write.csv(clone_summary, paste0(sample_id, "_ChrY_loss_by_clone.csv"), row.names = FALSE)
   
 } else {
-  cat("❌ No ChrY genes detected in", sample_id, "\n")
+  cat(" No ChrY genes detected in", sample_id, "\n")
 }
 
