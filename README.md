@@ -7,12 +7,7 @@ Welcome to the repository for my final degree project in Spatial Transcriptomics
 
 (All folders are in the spatial_transcriptomics directory.)
 
-- **Preprocessing/**: Scripts for Seurat object cleaning and metadata annotation.
-- **ChrY_Signature/**: Code to compute raw ChrY expression signatures from 43 curated genes.
-- **ChrY_Loss_Thresholding/**: Threshold testing and generation of binary LOY maps per spot.
-- **Clonal_LOY_Analysis/**: Scripts to map LOY status onto clones.
-- **Subtype_And_Response/**: Analysis of LOY by consensus subtype and treatment response.
-- **Visualization/**: ggplot2 and Seurat plots used in the final report and figures.
+
 
 ## Contact
 
