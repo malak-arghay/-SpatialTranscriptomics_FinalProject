@@ -7,10 +7,10 @@ Welcome to the repository for my final degree project in Spatial Transcriptomics
 
 | Folder name            | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| `principal_analysis/`  | Main pipeline scripts to compute Y chromosome scores (Y_signature, Y_sum) and prepare data |
-| `molecular_subtypes/`  | Analyses relating ChrY loss to consensus molecular subtypes                 |
+| `Principal analysis`  | Main pipeline scripts to compute Y chromosome scores (Y_signature, Y_sum) and prepare data |
+| `Molecular subtypes`  | Analyses relating ChrY loss to consensus molecular subtypes                 |
 | `Clones/`              | Scripts for generating boxplots of ChrY activity grouped by clone           |
-| `treatment_response/`  | Code to assess the link between ChrY loss and treatment response            |
+| `Treatment response/`  | Code to assess the link between ChrY loss and treatment response            |
 
 
 
